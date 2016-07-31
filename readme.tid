@@ -1,0 +1,11 @@
+title: $:/plugins/gt6796c/pseudocode-tw5/readme
+
+This is a TiddlyWiki plugin for using pseudocode.js.
+
+It is completely self-contained, and doesn't need an Internet connection in order to work. It works both in the browser and under Node.js.
+
+It is currently based on [[pseudocode.js v1.0.0|http://www.tatetian.io/pseudocode.js]]
+
+Note that this plugin requires the katex plugin from TiddlyWiki to work properly.
+
+[[Source code|https://github.com/gt6796c/pseudocode-tw5]]

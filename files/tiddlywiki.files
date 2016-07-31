@@ -1,0 +1,23 @@
+{
+    "tiddlers": [
+    {
+        "file": "pseudocode.min.js",
+        "fields": {
+            "type": "application/javascript",
+            "title": "$:/plugins/gt6796c/pseudocode-tw5/pseudocode.js",
+            "module-type": "library"
+        },
+        "prefix": "var katex= require('$:/plugins/tiddlywiki/katex/katex.min.js');(function(document) {\n",
+        "suffix": "\n})($tw.node ? $tw.fakeDocument : window.document)\n"
+    } ,
+    {
+        "file": "pseudocode.min.css",
+        "fields": {
+            "type": "text/css",
+            "title": "$:/plugins/gt6796c/pseudocode-tw5/pseudocode.min.css",
+            "tags" : "$:/tags/Stylesheet"
+        }
+    }
+
+]
+}
