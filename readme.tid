@@ -6,6 +6,13 @@ It is completely self-contained, and doesn't need an Internet connection in orde
 
 It is currently based on [[pseudocode.js v1.0.0|http://www.tatetian.io/pseudocode.js]]
 
-Note that this plugin requires the katex plugin from TiddlyWiki to work properly.
+!Dependencies:
+;This plugin requires:
+*[[Katex plugin|http://tiddlywiki.com/plugins/tiddlywiki/katex/]] from TiddlyWiki to work properly.
+*[[rocklib Plugin|https://gt6796c.github.io]]
 
 [[Source code|https://github.com/gt6796c/pseudocode-tw5]]
+
+!History
+*0.1.5
+**Updated to use [[rocklib|$:/plugins/gt6796c/rocklib]]

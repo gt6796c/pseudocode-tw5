@@ -4,9 +4,6 @@ Notation
 
 ```
 % This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
 \PROCEDURE{Quicksort}{$A, p, r$}
     \IF{$p < r$}
         \STATE $q = $ \CALL{Partition}{$A, p, r$}
@@ -26,16 +23,11 @@ Notation
         \STATE exchange $A[i]$ with $A[r]$
     \ENDFOR
 \ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}
 ```
 Results
 
-<$pseudocode text="
+<$pseudocode caption='Quicksort' text="
 % This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
 \PROCEDURE{Quicksort}{$A, p, r$}
     \IF{$p < r$}
         \STATE $q = $ \CALL{Partition}{$A, p, r$}
@@ -55,7 +47,6 @@ Results
         \STATE exchange $A[i]$ with $A[r]$
     \ENDFOR
 \ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}">
+">
 </$pseudocode>
 

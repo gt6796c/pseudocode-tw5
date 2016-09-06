@@ -2,9 +2,11 @@
     "title": "$:/plugins/gt6796c/pseudocode-tw5",
     "description": "Wrappers for pseudocode.js",
     "author": "Nathaniel Jones",
-    "version": "0.1.2",
+    "version": "0.1.5",
     "core-version": ">=5.0.8",
     "plugin-type": "plugin",
+    "dependents" : ["$:/plugins/tiddlywiki/katex"],
     "list" : "readme usage example license"
+
 
 }
